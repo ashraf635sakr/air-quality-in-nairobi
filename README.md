@@ -1,4 +1,4 @@
-# Project Name
+# air-quality-in-nairobi
 
 ## Description
 
